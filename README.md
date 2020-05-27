@@ -3,7 +3,7 @@ Submission for competetion Crack the Covid 2020 held at Beatest
 
 [Chatbots and Data](https://github.com/rishabh-karmakar/Crack_The_Covid_2020/tree/master/Chatbot%20data)
 
-[Map and Inventory Supplier]()
+[Map and Inventory Supplier](https://github.com/rishabh-karmakar/Crack_The_Covid_2020/tree/master/Maps%20and%20Inventory%20Supplier)
 
 [Login and ML](https://github.com/rishabh-karmakar/Crack_The_Covid_2020/tree/master/ML%20and%20Login)
 
